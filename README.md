@@ -1,2 +1,3 @@
 # fb_add_card
 Tool add thẻ kéo hold...
+Dowload chrome tại: https://github.com/kehoach9263/bm_make_card/releases/tag/v1.1.4-chrome
